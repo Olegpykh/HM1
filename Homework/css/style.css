@@ -1,0 +1,35 @@
+.first_one{
+width: 877px;
+height: 215px;
+top: 189px;
+left: 133px;
+font-family: League Spartan;
+font-size: 250px;
+font-weight: 300;
+line-height: 230px;
+text-align: left;
+margin-left: 792px;
+
+    
+  
+};
+
+.firstScreen {
+    width: 408px;
+    height: 720px;
+    top: 4px;
+    left: 792px;
+    gap: 0px;
+    opacity: 0px;
+    
+  
+}
+.button1 {
+  width: 278px;
+  height: 82px;
+  top: 650px;
+  left: 135px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #161515;
+}

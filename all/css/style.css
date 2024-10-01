@@ -1,0 +1,157 @@
+* {
+  box-sizing: border-box;
+}
+.smallOne {
+  width: 135px;
+  height: 32px;
+  position: absolute;
+  top: 104px;
+  left: 133px;
+}
+.watch {
+  width: 877px;
+  height: 215px;
+  position: absolute;
+  top: 189px;
+  left: 133px;
+  font-family: League Spartan;
+  font-size: 250px;
+  font-weight: 300;
+  line-height: 230px;
+  text-align: left;
+}
+.w1 {
+  display: block;
+  width: 408px;
+  height: 720px;
+  position: absolute;
+  top: 4px;
+  right: 240px;
+}
+.haupt {
+  width: 1440px;
+  height: 900px;
+  background-color: #f8f8f8;
+}
+.unten1 {
+  height: 41px;
+  margin-top: 4px;
+  font-family: League Spartan;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 44.64px;
+  text-align: center;
+}
+
+.models {
+  margin-top: 0px;
+  font-family: League Spartan;
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 81px;
+  text-align: center;
+}
+.uhr2 {
+  width: 417px;
+  height: 630px;
+  background: #f8f8f8;
+  margin-top: 84px;
+  margin-left: 511px;
+  padding: 110px 60px 110px 71px;
+}
+
+.uhr2.a {
+  width: 286px;
+  height: 410px;
+}
+
+.son22 {
+  height: 27px;
+  margin-top: 67px;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 29.44px;
+  text-align: center;
+}
+
+.son22w {
+  width: 531px;
+  height: 194px;
+  margin-left: 454px;
+  margin-top: 17px;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 49.6px;
+  text-align: center;
+  color: #161515;
+}
+.w3 {
+  width: 496px;
+  height: 630px;
+  margin-top: 85px;
+  margin-left: 472px;
+  background-color: #f8f8f8;
+  padding: 65px 2px;
+}
+.uhr3 {
+  width: 500px;
+  height: 500px;
+}
+.sw12 {
+  height: 29px;
+  margin-top: 67px;
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 29.44px;
+}
+.sw12D {
+  width: 510px;
+  height: 196px;
+  margin-top: 17px;
+  margin-left: 475px;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 49.6px;
+  text-align: center;
+}
+.ProducrDes {
+  height: 50px;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 59.52px;
+  text-align: center;
+  margin-top: 59px;
+}
+
+.unten4 {
+  width: 515px;
+  height: 231px;
+  font-family: League Spartan;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 40.8px;
+  text-align: center;
+  margin-top: 142px;
+  margin-left: 464px;
+}
+
+.end {
+  color: rgb(161, 121, 71);
+}
+
+.line {
+  width: 178.03px;
+  height: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: #707070;
+  border: 1px solid #707070;
+ margin-left: 631px;
+ margin-top: 9px;
+}
